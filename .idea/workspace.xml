@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Generic Types wish deep">
-      <change afterPath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/synergy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/synergy/Main.java" afterDir="false" />
+    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Added starter point for generic Types">
+      <change afterPath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661284006554</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added starter point for generic Types">
+      <created>1661284363681</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661284363681</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +157,7 @@
     <MESSAGE value="Finished wish example of cast failure in ArrayList" />
     <MESSAGE value="Refactored list to Integer generic type" />
     <MESSAGE value="Generic Types wish deep" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic Types wish deep" />
+    <MESSAGE value="Added starter point for generic Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added starter point for generic Types" />
   </component>
 </project>
