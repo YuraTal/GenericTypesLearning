@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Finished wish instanceof">
+    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Refactored list to Integer generic type">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/synergy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/synergy/Main.java" afterDir="false" />
     </list>
@@ -88,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661278676513</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished wish example of cast failure in ArrayList">
+      <created>1661280069494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661280069494</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactored list to Integer generic type">
+      <created>1661282098167</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661282098167</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +121,8 @@
     <MESSAGE value="Init project" />
     <MESSAGE value="First example of type casting" />
     <MESSAGE value="Finished wish instanceof" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished wish instanceof" />
+    <MESSAGE value="Finished wish example of cast failure in ArrayList" />
+    <MESSAGE value="Refactored list to Integer generic type" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored list to Integer generic type" />
   </component>
 </project>
