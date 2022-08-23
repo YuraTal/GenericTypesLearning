@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Refactored list to Integer generic type">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Generic Types wish deep">
+      <change afterPath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/synergy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/synergy/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ru.synergy.customgenerictypes.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.synergy.Main" />
       <module name="GenericTypesLearning" />
@@ -46,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.synergy.customgenerictypes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.synergy.customgenerictypes.Main" />
+      <module name="GenericTypesLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.synergy.customgenerictypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.synergy.customgenerictypes.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -103,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661282098167</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Generic Types wish deep">
+      <created>1661284006554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661284006554</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +150,7 @@
     <MESSAGE value="Finished wish instanceof" />
     <MESSAGE value="Finished wish example of cast failure in ArrayList" />
     <MESSAGE value="Refactored list to Integer generic type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored list to Integer generic type" />
+    <MESSAGE value="Generic Types wish deep" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Types wish deep" />
   </component>
 </project>

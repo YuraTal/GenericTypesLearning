@@ -73,6 +73,7 @@ public class Main {
     }
 }
 
+
 /*
 *       nто что делаем в коде                               во что преобразует компилятор
 * ArrayList<Integer> list = new ArrayList<Integer>();       ArrayList list = new ArrayList
