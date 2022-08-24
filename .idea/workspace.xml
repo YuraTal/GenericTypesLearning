@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Added account class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Example of not working Object cast">
       <change beforePath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Main.java" afterDir="false" />
     </list>
@@ -145,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661284656703</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Example of not working Object cast">
+      <created>1661368962182</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661368962182</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +174,7 @@
     <MESSAGE value="Generic Types wish deep" />
     <MESSAGE value="Added starter point for generic Types" />
     <MESSAGE value="Added account class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added account class" />
+    <MESSAGE value="Example of not working Object cast" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example of not working Object cast" />
   </component>
 </project>
