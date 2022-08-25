@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Method only deneric implementation">
-      <change beforePath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/synergy/customgenerictypes/Account.java" afterDir="false" />
+    <list default="true" id="d6b1060f-e707-407c-8c03-17fcd8027828" name="Changes" comment="Constructor only generic implementations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661372094015</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Constructor only generic implementations">
+      <created>1661372750498</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661372750498</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Constructor only generic implementations">
+      <created>1661455790160</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661455790160</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +235,7 @@
     <MESSAGE value="Refactored T to the interface lvl" />
     <MESSAGE value="Refactored T to the interface lvl and added on class support" />
     <MESSAGE value="Method only deneric implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method only deneric implementation" />
+    <MESSAGE value="Constructor only generic implementations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructor only generic implementations" />
   </component>
 </project>
